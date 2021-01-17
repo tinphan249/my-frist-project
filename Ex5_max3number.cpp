@@ -13,7 +13,7 @@ void lonnhat(float a,  float b, float c)
 main()
 {
 	float x, y, z;
-	printf("Nhap so x= ");	sc     anf("%f",&x);
+	printf("Nhap so x= ");	scanf("%f",&x);
 	printf("Nhap so y= ");	scanf("%f",&y);	
 	printf("Nhap so z= ");	scanf("%f",&z);
 	lonnhat(x,y,z);
